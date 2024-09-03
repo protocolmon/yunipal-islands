@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: bug
+labels: bug, enhancement
 assignees: ''
 
 ---
@@ -35,3 +35,6 @@ When did you first notice the issue? [e.g. 2021-01-01 12:00 UTC]
 
 **Additional Context**  
 Add any other context or information that might help in understanding the issue.
+
+**Ethereum Address**
+Your ETH address (check README).

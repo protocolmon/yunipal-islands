@@ -26,3 +26,6 @@ Explain the potential impact of this feature. How will it benefit new users or m
 
 **Additional Context**  
 Add any other context, examples, or references that support your feature idea.
+
+**Ethereum Address**
+Your ETH address (check README).
